@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 [![MSHB profile views](https://u8views.com/api/v1/github/profiles/10193999/views/day-week-month-total-count.svg)](https://u8views.com/github/mizzunet)
+[![MSHB profile views](https://u8views.com/api/v1/github/profiles/10193999/views/day-week-month-total-count.svg)](https://u8views.com/github/mizzunet)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
